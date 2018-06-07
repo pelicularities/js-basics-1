@@ -52,4 +52,4 @@
 
 1. Define a function `random5` that does not take any arguments and returns a
    random number between `1` and `5` (no decimals)
-   	- Hint: Multiply `Math.random()` by 5 and then use `Math.round()`
+   	- Hint: Multiply `Math.random()` by 5 and then use `Math.round()` or `Math.ceil()`
