@@ -1,3 +1,7 @@
+# JS Basics
+
+[See the solution here][solution].
+
 ## Exercise 1: Variables and values
 
 - Open the `index.html` file using a Live Server
@@ -53,3 +57,5 @@
 1. Define a function `random5` that does not take any arguments and returns a
    random number between `1` and `5` (no decimals)
    	- Hint: Multiply `Math.random()` by 5 and then use `Math.round()` or `Math.ceil()`
+
+[solution]: https://github.com/thoughtworks-jumpstart/js-basics-1/tree/solution
