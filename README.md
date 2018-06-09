@@ -1,6 +1,7 @@
 # JS Basics
 
-[See the solution here][solution].
+**This is the solution to the assignment**. [See the original assignment
+without the solution here][master].
 
 ## Exercise 1: Variables and values
 
@@ -58,4 +59,4 @@
    random number between `1` and `5` (no decimals)
    	- Hint: Multiply `Math.random()` by 5 and then use `Math.round()` or `Math.ceil()`
 
-[solution]: https://github.com/thoughtworks-jumpstart/js-basics-1/tree/solution
+[master]: https://github.com/thoughtworks-jumpstart/js-basics-1
