@@ -1,7 +1,5 @@
 # JS Basics
 
-[See the solution here][solution].
-
 ## Exercise 1: Variables and values
 
 - Open the `index.html` file using a Live Server
